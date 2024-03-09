@@ -5,6 +5,8 @@ public class Main
     public static void main(String[] args)
     {
     System.out.prinln("Hello Git");
+        System.out.prinln("Hello England");
+        System.out.prinln("Hello Gujarat");
     }
 
 }
